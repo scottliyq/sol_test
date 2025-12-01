@@ -61,8 +61,7 @@ PRIVATE_KEY=your_base58_private_key_here
 # 开发网: https://api.devnet.solana.com
 RPC_URL=https://api.mainnet-beta.solana.com
 
-# USDC Token Mint 地址 (主网)
-USDC_MINT_ADDRESS=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+
 ```
 
 **⚠️ 安全提醒**: 
